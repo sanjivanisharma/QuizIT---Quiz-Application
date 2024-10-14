@@ -7,7 +7,7 @@ QuizIT - Quiz Application
 
 Quiz App Project 
 
-A users can play the multiple choice quiz game, where individual scores are stored in local storage. 
+A user can play the multiple choice quiz game, where individual scores are stored in local storage. 
 
 At the end, a list of scores showing the highest score is displayed. 
 
